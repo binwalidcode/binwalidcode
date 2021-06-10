@@ -2,7 +2,7 @@
 - 👀 I’m interested in web develpoment , CS Theory , graphics programming and low-level stuff
 - 🌱 I’m currently learning the Django framework , python and SQL
 - 📫 How to reach me ... 
-twitter.com/takizeee
+https://www.twitter.com/takizeee
 likedin.com/in/takizee
 
 
