@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the Django framework , python and SQL
 - 📫 How to reach me ... 
 https://www.twitter.com/takizeee
-https://www.likedin.com/in/takizee
+https://www.linkedin.com/in/takizee
 
 
 <!---
