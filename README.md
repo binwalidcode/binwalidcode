@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @takizee
-- 👀 I’m interested in web develpoment , CS Theory , graphics programming and low-level stuff
+- 👀 I’m interested in web develpoment , CS Theory , Task Automation and scripting 
 - 🌱 I’m currently learning the Django framework , python and SQL
 - 📫 How to reach me ... 
 https://www.twitter.com/takizeee
