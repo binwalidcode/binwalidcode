@@ -20,7 +20,7 @@
 
 ## 🧑🏻‍🎓 MOOCS i'm enrolled in:
 - The Missing Semester - MIT learning ![30%](https://progress-bar.dev/30)
-- IBM Data Engineering - Courser ![1%](https://progress-bar.dev/1) 
+- IBM Data Engineering - Coursera ![1%](https://progress-bar.dev/1) 
 
 
 
