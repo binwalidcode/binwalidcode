@@ -1,26 +1,24 @@
-### Hi there, I'm Tarik 👋
+###Hello World !  It's Tarik 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/takizeee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftakizeee&screen_name=takizeee)
+[![Linkedin Follow](https://i.stack.imgur.com/gVE0j.png) Tarik Bin Walid](https://www.linkedin.com/in/binwalid)
+&nbsp;
+### Flutter/Dart Developer 
 
-# I'm a python developer , passionate about Back-end Development | scripting & automation | bots | web scrapping
+## 🌱 I’m currently Interested in :
 
-## 🌱 I’m currently learning :
-
-- More Python 🐍
-- Linux CLI 🐧
-- Git in depth.
-- Data structures and Algorithms.
-- DBMS and SQL 💽
+- Python/flask 🐍
+- Data Engineering
   
 ## 📚 Books i'm currently reading :
 
-- O'rielly Learning Python 🐍   ![60%](https://progress-bar.dev/60)
-- O'rielly : Version control with Git   ![30%](https://progress-bar.dev/30)
-- Practical Vim ![15%](https://progress-bar.dev/15)
+- Flutter Apprentice - raywenderlich Tutorial Team   ![25%](https://progress-bar.dev/25)
+- Flask web Development - by Miguel Grinberg 🐍   ![30%](https://progress-bar.dev/30)
 
-## 🧑🏻‍🎓 MOOCS i'm enrolled in:
-- The Missing Semester - MIT learning ![30%](https://progress-bar.dev/30)
-- IBM Data Engineering - Coursera ![1%](https://progress-bar.dev/1) 
+[//]: # (## 🧑🏻‍🎓 MOOCS i'm enrolled in:)
+
+[//]: # (- The Missing Semester - MIT learning ![30%]&#40;https://progress-bar.dev/30&#41;)
+
+[//]: # (- IBM Data Engineering - Coursera ![1%]&#40;https://progress-bar.dev/1&#41; )
 
 
 
@@ -33,23 +31,26 @@
 
 # Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 # Languages and Tools:
 
 
-<img align="left" alt="Python" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="Flutter" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<img align="left" alt="Firebase" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img align="left" alt="Dart" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="Python" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Flask" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img align="left" alt="Django" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="SQL" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="PostgreSQL" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Git" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="100px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
+<img align="left" alt="Vim" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 
 [twitter]: https://twitter.com/takizeee
 [instagram]: https://instagram.com/satisfied_tarik
