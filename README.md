@@ -54,7 +54,7 @@
 
 [twitter]: https://twitter.com/takizeee
 [instagram]: https://instagram.com/satisfied_tarik
-[linkedin]: https://linkedin.com/in/takizee
+[linkedin]: https://linkedin.com/in/binwalid
 
 <!---
 takizee/takizee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
