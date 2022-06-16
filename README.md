@@ -2,29 +2,23 @@
 
 [![Linkedin Follow](https://i.stack.imgur.com/gVE0j.png) Tarik Bin Walid](https://www.linkedin.com/in/binwalid)
 &nbsp;
-### Flutter/Dart Developer 
+
+### Flutter/Dart Developer
 
 ## 🌱 I’m currently Interested in :
 
 - Python/flask 🐍
 - Data Engineering
-  
+
 ## 📚 Books i'm currently reading :
 
-- Flutter Apprentice - raywenderlich Tutorial Team   ![25%](https://progress-bar.dev/25)
-- Flask web Development - by Miguel Grinberg 🐍   ![30%](https://progress-bar.dev/30)
+- Flutter Apprentice - raywenderlich Tutorial Team   ![36%](https://progress-bar.dev/36)
 
 [//]: # (## 🧑🏻‍🎓 MOOCS i'm enrolled in:)
 
 [//]: # (- The Missing Semester - MIT learning ![30%]&#40;https://progress-bar.dev/30&#41;)
 
 [//]: # (- IBM Data Engineering - Coursera ![1%]&#40;https://progress-bar.dev/1&#41; )
-
-
-
-
-  
-    
 
 
 [comment]: <> (![50%]&#40;https://progress-bar.dev/50&#41;)
@@ -36,7 +30,6 @@
 <br />
 
 # Languages and Tools:
-
 
 <img align="left" alt="Flutter" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Firebase" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
@@ -53,7 +46,9 @@
 <img align="left" alt="Vim" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 
 [twitter]: https://twitter.com/takizeee
+
 [instagram]: https://instagram.com/satisfied_tarik
+
 [linkedin]: https://linkedin.com/in/binwalid
 
 <!---
