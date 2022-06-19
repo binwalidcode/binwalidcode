@@ -5,10 +5,12 @@
 
 ### Flutter/Dart Developer
 
-## 🌱 I’m currently Interested in :
+[//]: # (## 🌱 I’m currently Interested in :)
 
-- Python/flask 🐍
-- Data Engineering
+[//]: # ()
+[//]: # (- Python/flask 🐍)
+
+[//]: # (- Data Engineering)
 
 ## 📚 Books i'm currently reading :
 
