@@ -4,12 +4,15 @@
 &nbsp;
 
 ### Flutter/Dart Developer
-Enthusiast software developer, problem solver and data explorer with a CS degree, fighters spirit and over 1 year of professional experience as a freelance developer.
-Coding is my passion, Automation is my obsession, Data is my curiosity!
+
+#### Enthusiast software developer, problem solver and data explorer with a CS degree, fighters spirit and over 1 year of professional experience as a freelance developer.
+
+#### Coding is my passion, Automation is my obsession, Data is my curiosity!
 
 [//]: # (## 🌱 I’m currently Interested in :)
 
 [//]: # ()
+
 [//]: # (- Python/flask 🐍)
 
 [//]: # (- Data Engineering)
