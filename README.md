@@ -12,24 +12,24 @@
 
 - Data Engineering ⚙️
 
-# 📚 Books i'm currently reading :
+## 📚 Books i'm currently reading :
 
 - Flutter Apprentice - raywenderlich Tutorial Team   ![36%](https://progress-bar.dev/36)
 
-# 🧑🏻‍🎓 MOOCS i'm enrolled in:
+## 🧑🏻‍🎓 MOOCS i'm enrolled in:
 
 - [Kaggle - Pandas] (https://www.kaggle.com/learn/pandas)
 
 
 [comment]: <> (![50%]&#40;https://progress-bar.dev/50&#41;)
 
-# Connect with me:
+## Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-# Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Flutter" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Firebase" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
