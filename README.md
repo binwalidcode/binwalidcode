@@ -1,31 +1,24 @@
-### Hello World !  It's Tarik 👋
+# 👋 Hello World !  It's Tarik 
 
-[![Linkedin Follow](https://i.stack.imgur.com/gVE0j.png) Tarik Bin Walid](https://www.linkedin.com/in/binwalid)
-&nbsp;
 
-### Flutter/Dart Developer
+## Enthusiast software developer, problem solver and data explorer with a CS degree, fighters spirit and over 1 year of professional experience as a freelance developer.
 
-#### Enthusiast software developer, problem solver and data explorer with a CS degree, fighters spirit and over 1 year of professional experience as a freelance developer.
+### Coding is my passion, Automation is my obsession, Data is my curiosity! 
 
-#### Coding is my passion, Automation is my obsession, Data is my curiosity!
+# 🌱 I’m currently Interested in 
 
-[//]: # (## 🌱 I’m currently Interested in :)
 
-[//]: # ()
+- Dart :dart: | Flutter :bird:
 
-[//]: # (- Python/flask 🐍)
+- Data Engineering ⚙️
 
-[//]: # (- Data Engineering)
-
-## 📚 Books i'm currently reading :
+# 📚 Books i'm currently reading :
 
 - Flutter Apprentice - raywenderlich Tutorial Team   ![36%](https://progress-bar.dev/36)
 
-[//]: # (## 🧑🏻‍🎓 MOOCS i'm enrolled in:)
+# 🧑🏻‍🎓 MOOCS i'm enrolled in:
 
-[//]: # (- The Missing Semester - MIT learning ![30%]&#40;https://progress-bar.dev/30&#41;)
-
-[//]: # (- IBM Data Engineering - Coursera ![1%]&#40;https://progress-bar.dev/1&#41; )
+- [Kaggle - Pandas] (https://www.kaggle.com/learn/pandas)
 
 
 [comment]: <> (![50%]&#40;https://progress-bar.dev/50&#41;)
